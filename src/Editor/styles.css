@@ -1,0 +1,11 @@
+[data-slate-editor] {
+  box-shadow: 2px 2px 1px 1px lightgrey;
+  background-color: white;
+  border: 1px solid lightgrey;
+  max-width: 600px;
+  padding: 0 10px;
+}
+
+[data-slate-node="element"] {
+  margin: 10px 0;
+}
